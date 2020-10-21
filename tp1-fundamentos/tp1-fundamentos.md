@@ -90,8 +90,10 @@ Se han adoptado dos palabras o temino nuevo a raiz de las IA, que son:
 ## C
 # Sección de discusión
 
-Finalmente podemos pensar diferentes preguntas y cada una de ellas va a tener una respuesta dependiendo de cada persona. A lo largo de este capitulo pude ver que las distintas personas sobre el mismo tema tienen puntos de vistas muy diferentes podemos ver a filosofos que piensan que esto es el fin de la humanidad y otros que piensan todo lo contrario. 
+Finalmente podemos pensar diferentes preguntas y cada una de ellas va a tener una respuesta dependiendo de cada persona. A lo largo de este capitulo pude ver que las distintas personas sobre el mismo tema tienen puntos de vistas muy diferentes podemos ver a filosofos que piensan que esto es el fin de la humanidad y otros que piensan todo lo contrario.
+
 Viendo estos puntos de vistas me lleva a pensar que toda la inteligencia artificial se basa en definir qué es la inteligencia, a partir de esa definición se puede empezar a hablar de IA. Viendo en la actualidad los avance no creo que en esta etapa que estamos atravesando los dispositivos que tienen IA son inteligente mas bien veo que son dispositivos que tienen billones de datos que ha partir del análisis de estos datos nos dan respuesta, al dia de la fecha me cuesta ver dispositivos que realmente piensen y tomen decisiones de una forma racional. Más bien se basan en datos.
-Si se basan en datos como pienso, esto significa que podemos crear IA muy peligrosas dependiendo de los datos. Mi pregunta es ¿Qué datos le estamos dando a las IA?
+Si se basan en datos como pienso, esto significa que podemos crear IA muy peligrosas dependiendo de los datos. Mi pregunta es ¿Qué datos le estamos dando a las IA?.
+
 Las personas humanas tienen mucho sesgo sobre cada uno de los temas, por lo cual IA en un futuro creo que va a ser una Inteligencia Sesgada Humana Artificial. Nose si sera tan artificial ya que si son datos de humanos los datos resultados van a ser muy parecidos a los humanos.
 Desde que nacemos se nos dan datos (visuales, sensoriales, auditivos, definición de palabras que dependiendo en el contexto que nacemos tienen diferente significado, etc) si pudieras tomas cada uno de los datos que se nos dan desde que nacemos hasta que morimos y esos datos son procesado por una IA ¿Que tan diferente sería una IA de un humano? son preguntas que me hago. Creo que al final de este camino todo va a ser datos y todo lo que el humano recibe se va a poder guardar como datos, en un futuro una IA de un humano nose que tan diferente va a ser.
