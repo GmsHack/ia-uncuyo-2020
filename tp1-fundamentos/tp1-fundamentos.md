@@ -39,9 +39,12 @@ Una de las críticas de Turing consiste en << su argumento de la informalidad de
 
 Al analizar más profundamente el tema de inteligencia, cuando una máquina pasa el test de Turing no significa que la máquina está realmente pensando, ya que puede parecer una persona pero no solo escribirlo sino que sepa lo que hizo (esto Turing lo llamaba la consciencia).
 Para el profesor Geoffrey Jefferson su mirada más profunda era sobre **fenomenología, que lo define como el estudio de la experiencia directa. Su pensamiento era más que las máquinas realmente tenían que sentir emociones.
-Otro pensadores se concentraban más en la **intencionalidad, que lo definen como: > La cuestión de si las creencias, deseos y otras representaciones supuestas de la máquina son de verdad algo que pertenece al mundo real.
+Otro pensadores se concentraban más en la **intencionalidad**, que lo definen como: 
+> La cuestión de si las creencias, deseos y otras representaciones supuestas de la máquina son de verdad algo que pertenece al mundo real.
+
 Otro análisis es el comportamiento de los artefactos, como el pensamiento del filósofo John Searle(1980):
 > “ Nadie piensa que la simulación por computador de una tormenta nos va a mojar… Y ¿Cuál es la razón de que cualquier persona en su sano juicio si ponga que la simulación por computador de los procesos mentales tendría realmente procesos mentales? - John Searle(1980) (pp. 37-38) 
+
 Esta cita, nos habla de que si realmente las computadoras cuando simulan procesos mentales están pensando, ya que cuando simulan procesos de lluvia no se están mojando, es una cita para pensar.
 
 Otras teorías:
