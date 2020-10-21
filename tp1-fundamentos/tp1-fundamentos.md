@@ -10,7 +10,8 @@ En 1950 Alan Turing sugirió que el enfoque a la pregunta si una máquina puede 
 ## EL argumento de incapacidad
 
 El argumento de incapacidad afirma que <<una máquina nunca puede hacer X>>. A los fines de definir X, Turing enumero las siguientes acciones:
-> Ser amable, tener recursos, ser guapo, simpático, tener iniciativas, tener sentido del humor …
+> Ser amable, tener recursos, ser guapo, simpático, tener iniciativas, tener sentido del humor ...
+
 Se enumeraron una serie de acciones que Turing tomó como acciones que una máquina no puede nunca podría hacer, esto fue establecido en los años 1950 aproximadamente por lo cual, para la época Turing tuvo que imaginar a futuro. En la actualidad hay muchas cosas que ya han superado al humano ejemplo: jugar al ajedrez, Go, comprobar la ortografía, entre otras cosas. 
 En 1955 Paul Meehl estudio los proceso de tomas de decisiones de expertos formados en tareas subjetivas como predecir el éxito de un alumno. Desde el año 1999, el Educational Testing Service ah implementado algoritmo de automatizacion de preguntas de redacion llegando a un 97 porciento de concordancia con los examinadores 
 
