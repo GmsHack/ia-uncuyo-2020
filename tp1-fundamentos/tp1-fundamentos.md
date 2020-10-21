@@ -84,8 +84,8 @@ En esta sección habla sobre que si éticamente es correcto seguir desarrollando
 
 Cada uno de estos problemas tienen la visión de que la IA en cierto modo reemplaza acciones cotidianas del ser humano llevándolo a ser una persona más dependiente de tercero de qué sí misma por lo cual representa un peligro si en algún momento no estaría las IA.
 Se han adoptado dos palabras o temino nuevo a raiz de las IA, que son:
-- **Singularidad tecnológica: Hace referencia la <<explotación de inteligencia>>
-- **Transhumanidad:  Hace referencia al movimiento social real que espera con muchas ganas el futuro. 
+- **Singularidad tecnológica**: Hace referencia la <<explotación de inteligencia>>
+- **Transhumanidad**:  Hace referencia al movimiento social real que espera con muchas ganas el futuro. 
 
 ## C
 # Sección de discusión
