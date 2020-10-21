@@ -87,6 +87,8 @@ Se han adoptado dos palabras o temino nuevo a raiz de las IA, que son:
 - **Singularidad tecnológica**: Hace referencia la <<explotación de inteligencia>>
 - **Transhumanidad**:  Hace referencia al movimiento social real que espera con muchas ganas el futuro. 
 
+
+
 ## C
 # Sección de discusión
 
