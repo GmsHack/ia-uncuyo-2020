@@ -26,6 +26,7 @@ Este teorema para el filósofo J.R. Lucas(1961) explica que las máquinas son in
 El teorema de la incompletitud de Gödel se aplica sólo a sistemas formales que son lo suficientemente potentes como para realizar aritméticas.
 Un agente no debería avergonzarse de no poder establecer la verde aunque otro lo haga. Considerando la siguiente sentencia:
 > J.R. Lucas no puede consecuentemente afirmar que esta sentencia es verdadera.
+
 La sentencia de arriba está hablando si Lucas afirma la sentencia entonces se estaría contradiciendo a sí mismo, por lo cual Lucas no puede afirmar la sentencia. Esto genera contradicción ya que no puede ser falsa ya que Lucas no podría afirmar consecuentemente, por lo tanto sería verdadera.
 Esta sentencia sirve para demostrar que el pensamiento matemático tiene una funcion secundaria a la hora de definir inteligencia 
 
