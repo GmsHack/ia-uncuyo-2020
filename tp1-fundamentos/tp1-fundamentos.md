@@ -87,6 +87,7 @@ Se han adoptado dos palabras o temino nuevo a raiz de las IA, que son:
 - **Singularidad tecnológica**: Hace referencia la <<explotación de inteligencia>>
 - **Transhumanidad**:  Hace referencia al movimiento social real que espera con muchas ganas el futuro. 
 
+![Fundamentos] ![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/GmsHack/ia-uncuyo-2020/main/tp1-fundamentos/Fundamentos%20%20filos%C3%B3ficos%20de%20la%20IA.png)
 
 
 ## C
