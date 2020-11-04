@@ -15,3 +15,7 @@ Durante el proceso de resolucion tiene que analizar si tiene obstaculos, para el
 - Cada vez que analiza los que hace es a traves de una formula colocar un valor
 - La formula es la siguiente f = g +h
 - Donde h es la huristica que tiene la siguiente forma: (Xinicial -Xfinal)^2 + (Yinicial - Yfinal)^2
+- Siendo g el costo
+- Tomando estos valores (g y h) obtenemos f
+- Con f lo que vamos a hacer es tomar deciciones para le mejor camin
+- El algoritmo se encarga de resolver todas las situaciones y llegar al destino.
